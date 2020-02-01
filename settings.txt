@@ -1,0 +1,8 @@
+screen width
+1280
+
+screen height
+720
+
+Step in degrees between rays ( for main.py recommended is < 0.3; for filled.py recommended is > 1 )
+0.3
